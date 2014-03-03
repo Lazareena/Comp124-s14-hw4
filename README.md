@@ -32,4 +32,4 @@ Keep in mind that the Browser and Tab classes should provide almost all of this 
 
 
 ### Appendix: Example Transcript
-![transcript](https://raw.github.com/mac-comp124-f13/hw4/master/transcript.png?login=shilad&token=78c15238285a40c97a6aa9f25d69c9a8 "Transcript")
+![transcript](https://dl.dropboxusercontent.com/u/7917779/transcript.png "Transcript")
